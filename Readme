@@ -1,7 +1,17 @@
-C program to find sum of all divisors of a positive integer n.
+sum_of_divisor.c 
+  C program to find sum of all divisors of a positive integer n using prime factorization
+  
+  Use the following command to compile
+  gcc sum_of_divisor.c -o sum_of_divisor -lm
+  
+  Use the following command to run program 
+  ./sum_of_divisor
 
-Use the following command to compile
-gcc sum_of_divisor.c -o sum_of_divisor -lm
-
-Use the following command to run program 
-./sum_of_divisor
+Prim_MST.c
+  C program to find Minimum Spanning Tree using Prim's Algorithm
+  
+  Use the following command to compile
+  gcc Prim_MST.c -o Prim_MST -lm
+  
+  Use the following command to run program 
+  ./Prim_MST
